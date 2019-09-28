@@ -46,6 +46,7 @@ paginate        = 6
   githubName = "eueung"
 
   logo = "hugo-logo.png"
+  favicon = "favicon.ico"
   orgName = "EM"
   orgWebsite = "https://www.telematika.org"
   orgDescription = "Here is a description placeholder for your org"
