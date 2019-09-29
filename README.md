@@ -93,6 +93,6 @@ Sample content structure is given in the `exampleSite` folder. Have fun!
 
 ## License
 
-This theme is released under the MIT license. For more information read the [License](//github.com/eueung/hugo-casper-two/blob/master/LICENSE.md).
+This theme is released under the MIT license. For more information read the [License](//github.com/bablem/hugo-world-casper-2/blob/master/LICENSE.md).
 
 
