@@ -1,0 +1,14 @@
+[share_this]
+other = "Comparte"
+
+[latest_posts]
+other = "Últimos Artículos"
+
+[previous_posts]
+other = "Artículos Anteriores"
+
+[next_posts]
+other = "Artículos Siguientes"
+
+[pagination]
+other = "Página {{ .Paginator.PageNumber }} de {{ .Paginator.TotalPages }}"

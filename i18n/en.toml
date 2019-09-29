@@ -1,0 +1,14 @@
+[share_this]
+other = "Share this"
+
+[latest_posts]
+other = "Latest Posts"
+
+[previous_posts]
+other = "Previous Posts"
+
+[next_posts]
+other = "Next Posts"
+
+[pagination]
+other = "Page {{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }}"
