@@ -29,6 +29,18 @@ For more information read the official [setup guide](//gohugo.io/overview/instal
 
 Copy the `config.toml` from the [`exampleSite`](https://github.com/bablem/hugo-world-casper-2/tree/master/exampleSite), then edit as desired.
 
+## How to translate
+
+For translate the theme to a new language, follow this two steps:
+
+1. Fork this repo.
+
+2. Create a new file with the language code under `i18n` folder with the translated strings.
+
+3. Edit the `months.yaml` file inside `data` folder. It is necessary for the publishing date of the posts.
+
+4. Create a Pull Request with your great work!
+
 ## Credits
 
 Much of the work of porting this theme to Hugo has been done by [Eueung Mulyana](https://github.com/eueung) in his repository [hugo-casper-two](https://github.com/eueung/hugo-casper-two).
