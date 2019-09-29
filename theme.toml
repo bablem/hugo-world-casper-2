@@ -1,15 +1,15 @@
-name = "Casper Two"
+name = "World Casper 2"
 license = "MIT"
-licenselink = "https://github.com/eueung/hugo-casper-two/blob/master/LICENSE.md"
-description = "Port of Casper 2.x from Ghost Foundation"
-homepage = "https://github.com/eueung/hugo-casper-two"
-tags = ["blog","pages","ghost theme"]
+licenselink = "https://github.com/bablem/hugo-world-casper-2/blob/master/LICENSE.md"
+description = "Port of Casper 2.x for Hugo, with languages support"
+homepage = "https://github.com/bablem/hugo-world-casper-2"
+tags = ["blog","pages","ghost theme","i18n","spanish"]
 features = ["disqus", "google analytics"]
-min_version=0.31
+min_version = 0.31
 
 [author]
-  name = "Eueung Mulyana"
-  homepage = "https://www.telematika.org/"
+  name = "Bablem"
+  homepage = "https://www.bablem.com/"
 
 [original]
   name = "Casper"
